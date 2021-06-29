@@ -1,11 +1,11 @@
 
-Para la elaboración del json creamos un archivo .json, donde en el interior contiene la estructura del json como por ejemplo: usuario, clave, nombre y imagenes que se encuentra en el internet, en la cual obtenemos la ruta de la imagen. Trabajando en la plataforma de github. además para realizar la consulta del json se trabaja con Volley.
+Para la elaboración del json creamos un archivo .json, donde en el interior contiene la estructura del json como por ejemplo: usuario, clave, nombre y imagenes que se encuentra en el internet, en la cual obtenemos la ruta de la imagen. Trabajando en la plataforma de github, además para realizar la consulta del json se trabaja con Volley.
 
 ![Captura de pantalla (274)](https://user-images.githubusercontent.com/69564165/123849538-858ece00-d8de-11eb-87cd-1882c2fa080d.png)
 # NAVIGATIONVIEW2.0
 
 
-Para utilizar el json que se encuentra en github, debemos trabajar bajo el dominio de Json server, por ejemplo https://my-json-server.typicode.com/<nombre del usuario de github>/<y nombre del repositorio del json>/posts
+Para utilizar el json que se encuentra en github, debemos trabajar bajo el dominio de Json server, por ejemplo https://my-json-server.typicode.com/nombre del usuario de github/y nombre del repositorio del json/posts
 
 
 ![Captura de pantalla (275)](https://user-images.githubusercontent.com/69564165/123849591-96d7da80-d8de-11eb-81f1-433203917007.png)
